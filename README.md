@@ -1,6 +1,10 @@
-# ☄️ NASA Near-Earth Asteroids Data Pipeline
 
+# ☄️ NASA Near-Earth Asteroids Data Pipeline
 A Data Engineering project that collects, validates, transforms, stores, and analyzes data about Near-Earth Objects (NEOs) using NASA's API.
+
+🇧🇷 [Leia em Português](README-pt-br.md)
+
+
 
 ## 🎯 Project Goal
 
