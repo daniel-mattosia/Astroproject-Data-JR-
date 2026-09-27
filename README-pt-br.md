@@ -138,3 +138,8 @@ Este projeto está sendo desenvolvido como um projeto prático de portfólio par
 ## 📄 Licença
 
 Este projeto está sob a licença MIT.
+
+## Autor
+**Nome:** Daniel Mattos
+
+**Perfil:** Estudante universitário | Candidato a vaga Júnior em Engenharia de Dados
