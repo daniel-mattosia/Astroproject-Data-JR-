@@ -164,3 +164,13 @@ This project is being developed as a practical portfolio project to consolidate 
 * [ ] Create SQL analysis queries
 * [ ] Create interactive visualizations
 * [ ] Document the complete pipeline
+
+
+## Author
+
+**Name** Daniel Mattos
+
+**Profile:** University Student 
+
+**Candidate** Junior Data Engineering
+
