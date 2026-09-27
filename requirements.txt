@@ -1,0 +1,8 @@
+requests
+pandas
+pydantic
+python-dotenv
+datetime
+argparse
+os
+sqlite3
